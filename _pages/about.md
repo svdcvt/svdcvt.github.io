@@ -10,8 +10,9 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>428 office</p>
-    <p>IMAG, 700 avenue Centrale </p>
-    <p>Saint-Martin-d’Heres, 38400, France</p>
+    <p>IMAG, 700 av.Centrale </p>
+    <p>Saint-Martin-d’Heres </p>
+    <p>38400, France</p>
 
 
 news: false  # includes a list of news items
