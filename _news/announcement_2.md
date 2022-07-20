@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENGAGE meeting Inria-DFKI
-date: 2022-07-04 12:00:00-0000
+date: 2022-07-04 12:00:00-0400
 inline: false
 ---
 
