@@ -5,7 +5,7 @@ permalink: /
 subtitle: #openscience #queerscience
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
