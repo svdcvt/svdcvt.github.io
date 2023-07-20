@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: 1st year PhD student at Inria, Grenoble.
+subtitle: #openscience #queerscience
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
@@ -15,9 +15,11 @@ profile:
     <p>38400, France</p>
 
 
-news: true  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here!
+Hi, salut, привет! I am a Ph.D. student at University Grenoble Alpes and INRIA, I work with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in [Datamove team](https://team.inria.fr/datamove/). 
+
+My research is focused on improving the data-efficiency of a deep neural network training on a data which comes from physics simulators and PDEs. I am also a member of Melissa project which develops a framework for large scale deep surrogate training on HPC systems. 
