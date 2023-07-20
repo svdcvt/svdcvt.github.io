@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sofya
-middle_name: 
+middle_name: (Sofi)
 last_name: Dymchenko
-email: sofya.dymchenko@inria.fr
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sofya Dymchenko's personal webpage.
 footer_text: >
@@ -56,11 +56,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: svdcvt # your GitHub user name
 gitlab_username: sdymchen # your GitLab user name
-twitter_username: DymchenkoSofi # your Twitter handle
+twitter_username: sofyadym # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: sofya.dymchenko # your Medium username
+medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -72,7 +72,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Do not hesitate to send me an email on: name(dot)surname(at)inria(dot)fr.
+  Do not hesitate to send me an email to: name(dot)surname(at)inria(dot)fr.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -105,8 +105,8 @@ disqus_shortname: svdcvt # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@sofya.dymchenko/feed
+  - name: #medium.com
+    rss_url: #https://medium.com/@sofya.dymchenko/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -119,7 +119,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
