@@ -1,16 +1,16 @@
 ---
 layout: page
-title: else
+title: 
 nav: true
 nav_order: 5
-dropdown: true
+dropdown: false
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
-    - title: divider
-    - title: teaching
-      permalink: /teaching/
+    #- title: publications
+    #  permalink: /publications/
+    #- title: divider
+    #- title: projects
+    #  permalink: /projects/
+    #- title: divider
+    #- title: teaching
+    #  permalink: /teaching/
 ---
