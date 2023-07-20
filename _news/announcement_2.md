@@ -10,10 +10,3 @@ Participated in <a href="https://engage.inria.fr/">ENGAGE project</a> meeting in
 ***
 
 <a href="https://engage.inria.fr/files/2022/07/simulation-based-inference-and-generative-nn.pdf">Presentation link</a>.
-
-#### List
-<ul>
-    <li>1</li>
-    <li>2</li>
-</ul>
-
