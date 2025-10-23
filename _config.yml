@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sofya
 middle_name: (Sofi)
 last_name: Dymchenko
-email: name(dot)surname(at)inria(dot)fr
+# email: name(dot)surname(at)inria(dot)fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sofya Dymchenko's personal webpage.
 footer_text: >
@@ -46,11 +46,11 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+footer_fixed: false
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -94,7 +94,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: svdcvt # put your disqus shortname
+# disqus_shortname: svdcvt # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

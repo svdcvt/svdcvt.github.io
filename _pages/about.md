@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #openscience #inclusivescience
+subtitle: 
 
 profile:
   align: right
