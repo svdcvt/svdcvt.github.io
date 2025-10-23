@@ -27,6 +27,7 @@ The cost of generating training data from physical solvers is a major bottleneck
 ---
 
 After defending my thesis (February-March 2026), I plan to continue working in the field of AI for Science. I want:
+
 1) to work back-to-back in a team of passionate researchers and engineers, 
 2) to apply my skills and knowledge to solving real-world scientific cases, 
 3) to stay connected to the scientific community by publishing in open-access journals and attending international conferences, and 
