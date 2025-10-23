@@ -21,6 +21,7 @@
     {
       "name": "Inria, University of Grenoble Alpes",
       "position": "PhD in Computer Science",
+      "location": "Grenoble, France",
       "startDate": "2022-03-01",
       "endDate": "2026-03-01",
       "summary": "",
@@ -31,6 +32,7 @@
       "position": "Research Intern",
       "startDate": "2021-07-01",
       "endDate": "2021-11-01",
+      "location": "Moscow, Russia",
       "summary": "",
       // "highlights": [""]
     },
@@ -39,6 +41,7 @@
       "name": "Huawei, Media Lab, Moscow, Russia",
       "startDate": "2019-02-01",
       "endDate": "2019-07-01",
+      "location": "Moscow, Russia",
       "summary": "",
       // "highlights": [""]
     },
@@ -47,12 +50,14 @@
       "position": "Invited Lecturer (Python and Data Science for bachelor and master students)",
       "startDate": "2019-09-01",
       "endDate": "2022-07-01",
+      "location": "Moscow, Russia",
       "summary": "",
       // "highlights": [""]
     },
     {
       "position": "Invited Lecturer (Data Science for Management Masters)",
       "name": "University Grenoble Alpes, Grenoble, France",
+      "location": "Grenoble, France",
       "startDate": "2022-11-01",
       "endDate": "2024-02-01",
       "summary": "",
