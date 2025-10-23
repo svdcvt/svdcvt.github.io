@@ -21,42 +21,42 @@
     {
       "name": "Inria, University of Grenoble Alpes",
       "position": "PhD in Computer Science",
-      "startDate": "2022-01-03",
-      "endDate": "2026-01-03",
+      "startDate": "2022-03-01",
+      "endDate": "2026-03-01",
       "summary": "",
-      "highlights": [""]
+      // "highlights": [""]
     },
     {
       "name": "Skolkovo Institute of Science and Technology",
       "position": "Research Intern",
-      "startDate": "2021-01-07",
-      "endDate": "2021-01-11",
+      "startDate": "2021-07-01",
+      "endDate": "2021-11-01",
       "summary": "",
-      "highlights": [""]
+      // "highlights": [""]
     },
     {
       "position": "Research Intern",
       "name": "Huawei, Media Lab, Moscow, Russia",
-      "startDate": "2019-01-02",
-      "endDate": "2019-01-07",
+      "startDate": "2019-02-01",
+      "endDate": "2019-07-01",
       "summary": "",
-      "highlights": [""]
+      // "highlights": [""]
     },
     {
       "name": "Higher School of Economics",
       "position": "Invited Lecturer (Python and Data Science for bachelor and master students)",
-      "startDate": "2019-01-09",
-      "endDate": "2022-01-07",
+      "startDate": "2019-09-01",
+      "endDate": "2022-07-01",
       "summary": "",
-      "highlights": [""]
+      // "highlights": [""]
     },
     {
       "position": "Invited Lecturer (Data Science for Management Masters)",
       "name": "University Grenoble Alpes, Grenoble, France",
-      "startDate": "2022-01-11",
-      "endDate": "2024-01-02",
+      "startDate": "2022-11-01",
+      "endDate": "2024-02-01",
       "summary": "",
-      "highlights": [""]
+      // "highlights": [""]
     }
   ],
   "education": [
@@ -65,24 +65,24 @@
       "location": "Moscow, Russia",
       "area": "Statistical Learning and Data Science",
       "studyType": "MSc",
-      "startDate": "2019-01-09",
-      "endDate": "2021-01-07"
+      "startDate": "2019-09-09",
+      "endDate": "2021-07-07"
     },
     {
       "institution": "Higher School of Economics",
       "location": "Moscow, Russia",
       "area": "Mathematics",
       "studyType": "BSc",
-      "startDate": "2015-01-09",
-      "endDate": "2019-01-07"
+      "startDate": "2015-09-09",
+      "endDate": "2019-07-07"
     },
     {
       "institution": "Inria, University of Grenoble Alpes",
       "location": "Grenoble, France",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2022-01-03",
-      "endDate": "2026-01-03"
+      "startDate": "2022-03-03",
+      "endDate": "2026-03-03"
     }
   ]
   // "interests": [
