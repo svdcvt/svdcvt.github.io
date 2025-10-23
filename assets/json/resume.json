@@ -33,25 +33,25 @@
       "location": "Moscow, Russia",
       "summary": ""
     }
-  ],
+  ], 
   "teaching": [
     {
       "name": "Higher School of Economics",
-      "position": "Invited Lecturer (Python and Data Science for bachelor and master students)",
+      "position": "Invited Lecturer",
       "startDate": "2019-09-01",
       "endDate": "2022-07-01",
       "location": "Moscow, Russia",
-      "summary": ""
+      "summary": "Python and Data Science for bachelor and master students"
     }, 
     {
-      "position": "Invited Lecturer (Data Science for Management Masters)",
+      "position": "Invited Lecturer",
       "name": "University Grenoble Alpes",
       "location": "Grenoble, France",
       "startDate": "2022-11-01",
       "endDate": "2024-02-01",
-      "summary": ""
-    }
-  ],
+      "summary": "Data Science for Management Masters"
+    } 
+  ], 
   "education": [
     {
       "institution": "Skolkovo Institute of Science and Technology",

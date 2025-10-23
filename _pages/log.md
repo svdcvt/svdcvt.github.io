@@ -11,12 +11,14 @@ nav_order: 3
 
 - xx/07: **Research Visit at TUM**. Visited Technical University of Munich (TUM) for research collaboration with Prof. Nils Thuerey. Gave a talk on my recent work, attempted to use online training for PDETransformer. 
 - xx/06: **Numerical Analysis School**. Attended Numerical Analysis Summer School 2025 organised by Inria, EDF, and CEA in Saclay, France. 
+- xx/04: **New Intern**. 
+- xx/02: **New Intern**. 
 
 ## 2024
 
 - xx/11: **Supercomputing 2024**. Attended SC24 conference in Atlanta, GA, USA. Presented my publication orally during the [Ai for Science] workshop. [Video]() [Photo]().
-- xx/07: **ICML2024**. Attended ICML2024 conference in Vienna, Austria. 
-- xx/05: **GAP workshop**. 
+- xx/07: **ICML2024**. Attended ICML2024 conference in Vienna, Austria. It was a great opportunity to expand my network of connections and boil some discussions. My advisor presented Melissa during [WANT workshop]. [LinkedIn Post](https://www.linkedin.com/posts/sofya-dymchenko-56269323a_our-workshop-on-efficient-training-of-neural-activity-7222864550084153345-24WG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA). 
+- 29-31/05: **GAP workshop**. Attended [Grenoble Artificial Intelligence for Physical Sciences workshop](https://gap2024.sciencesconf.org), organised by my advisor and other colleagues from Grenoble. I was volunteering to help with on-site organisation. [LinkedIn Post](https://www.linkedin.com/posts/sofya-dymchenko-56269323a_ai4science-activity-7202260638474072066-CMEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA).
 
 ## 2023
 
