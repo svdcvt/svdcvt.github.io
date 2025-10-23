@@ -16,22 +16,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-log",
+          title: "log",
+          description: "Simple log of my related activities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/log/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-engage-meeting-inria-dfki",
+            },},{id: "news-engage-meeting-inria-dfki",
           title: 'ENGAGE meeting Inria-DFKI',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-engage-meeting-inria-dfki",
+          title: 'ENGAGE meeting Inria-DFKI',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_tmp/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
