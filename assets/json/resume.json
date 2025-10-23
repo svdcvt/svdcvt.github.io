@@ -16,7 +16,7 @@
       "startDate": "2022-03-01",
       "endDate": "2026-03-01",
       "summary": ""
-    },
+    }, 
     {
       "name": "Skolkovo Institute of Science and Technology",
       "position": "Research Intern",
@@ -24,7 +24,7 @@
       "endDate": "2021-11-01",
       "location": "Moscow, Russia",
       "summary": ""
-    },
+    }, 
     {
       "position": "Research Intern",
       "name": "Huawei, Media Lab, Moscow, Russia",
@@ -42,7 +42,7 @@
       "endDate": "2022-07-01",
       "location": "Moscow, Russia",
       "summary": ""
-    },
+    }, 
     {
       "position": "Invited Lecturer (Data Science for Management Masters)",
       "name": "University Grenoble Alpes",
@@ -60,14 +60,15 @@
       "studyType": "MSc (Double Degree)",
       "startDate": "2019-09-09",
       "endDate": "2021-07-07"
-    },{
+    }, 
+    {
       "institution": "Higher School of Economics",
       "location": "Moscow, Russia",
       "area": "Statistical Learning",
       "studyType": "MSc (Double Degree)",
       "startDate": "2019-09-09",
       "endDate": "2021-07-07"
-    },
+    }, 
     {
       "institution": "Higher School of Economics",
       "location": "Moscow, Russia",
@@ -75,7 +76,7 @@
       "studyType": "BSc",
       "startDate": "2015-09-09",
       "endDate": "2019-07-07"
-    },
+    }, 
     {
       "institution": "Inria, University of Grenoble Alpes",
       "location": "Grenoble, France",
