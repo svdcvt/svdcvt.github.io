@@ -2,16 +2,16 @@
   type: map
   contents:
     - name: Name
-      value: Sofya (Sofi) Dymchenko
+      value: Sofya Dymchenko
     - name: Languages
       value: English, Russian, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Informatics
-      institution: Inria, University of Grenoble-Alpes, Grenoble, France
-      year: 2022 - 2025
+    - title: PhD in Computer Science
+      institution: Inria, University of Grenoble Alpes, Grenoble, France
+      year: 2022 - 2026
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -20,7 +20,7 @@
       #      - Sub-description 1.
       #      - Sub-description 2.
     - title: MSc in Data Science
-      institution: Skolkovo Institute of Science and Technology, Higher School of Economics, Moscow, Russia
+      institution: Double Degree: Skolkovo Institute of Science and Technology, Higher School of Economics, Moscow, Russia
       year: 2019 - 2021
       #description:
       #  - Description 1.
@@ -55,6 +55,10 @@
     - title: Invited Lecturer
       institution: Higher School of Economics, Moscow, Russia
       year: 2019 - 2022
+    
+    - title: Invited Lecturer (Data Science for Management School)
+      institution: University Grenoble Alpes, Grenoble, France
+      year: 2023 - 2024
 
 - title: Interests
   type: list
