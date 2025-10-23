@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: ENGAGE meeting Inria-DFKI
+date: 2022-07-04 12:00:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+Participated in <a href="https://engage.inria.fr/">ENGAGE project</a> meeting in Paris on July 4-5, 2022. Gave a small talk on early literature exploration.
+
+***
+
+<a href="https://engage.inria.fr/files/2022/07/simulation-based-inference-and-generative-nn.pdf">Presentation link</a>.

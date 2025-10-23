@@ -11,7 +11,7 @@
   "work": [
     {
       "name": "Inria, University of Grenoble Alpes",
-      "position": "PhD in Computer Science",
+      "position": "Doctoral Researcher",
       "location": "Grenoble, France",
       "startDate": "2022-03-01",
       "endDate": "2026-03-01",
@@ -32,7 +32,9 @@
       "endDate": "2019-07-01",
       "location": "Moscow, Russia",
       "summary": ""
-    },
+    }
+  ],
+  "teaching": [
     {
       "name": "Higher School of Economics",
       "position": "Invited Lecturer (Python and Data Science for bachelor and master students)",
@@ -43,7 +45,7 @@
     },
     {
       "position": "Invited Lecturer (Data Science for Management Masters)",
-      "name": "University Grenoble Alpes, Grenoble, France",
+      "name": "University Grenoble Alpes",
       "location": "Grenoble, France",
       "startDate": "2022-11-01",
       "endDate": "2024-02-01",
@@ -54,15 +56,15 @@
     {
       "institution": "Skolkovo Institute of Science and Technology",
       "location": "Moscow, Russia",
-      "area": "Statistical Learning and Data Science",
-      "studyType": "MSc",
+      "area": "Data Science",
+      "studyType": "MSc (Double Degree)",
       "startDate": "2019-09-09",
       "endDate": "2021-07-07"
     },{
       "institution": "Higher School of Economics",
       "location": "Moscow, Russia",
       "area": "Statistical Learning",
-      "studyType": "MSc",
+      "studyType": "MSc (Double Degree)",
       "startDate": "2019-09-09",
       "endDate": "2021-07-07"
     },
