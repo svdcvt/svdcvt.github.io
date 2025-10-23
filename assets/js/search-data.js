@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Simple log of my related activities.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/log/";
+            window.location.href = "/thelog/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
