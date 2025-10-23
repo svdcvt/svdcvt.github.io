@@ -4,7 +4,7 @@ title: log
 permalink: /log/
 description: Simple log of my related activities.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## 2025
