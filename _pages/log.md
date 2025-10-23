@@ -2,7 +2,7 @@
 layout: page
 permalink: /thelog/
 title: log
-description: Simple log of my related activities.
+description: Simple log of my related activities [under construction].
 nav: true
 nav_order: 3
 ---
