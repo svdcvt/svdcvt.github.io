@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sofya
-middle_name:
+# middle_name:
 last_name: Dymchenko
 email: name(dot)surname(at)inria(dot)fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -88,9 +88,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: #Digesting AI # blog_name will be displayed in your blog page
+blog_name: Digesting AI # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: #reading papers, writing notes, having fun!
+blog_description: reading papers, writing notes, having fun!
 permalink: /blog/:year/:title/
 
 # Pagination
