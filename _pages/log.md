@@ -1,7 +1,7 @@
 ---
 layout: page
 title: log
-permalink: /log/
+permalink: /thelog/
 description: Simple log of my related activities.
 nav: true
 nav_order: 4
