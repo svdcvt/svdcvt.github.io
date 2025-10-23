@@ -7,8 +7,8 @@ subtitle: #openscience #inclusivescience
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
-  address: 
+  image_circular: false # crops the image to make it circular
+  more_info: 
 
 
 news: false # includes a list of news items
