@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi, salut, привет! I am a last-year Ph.D. student at University Grenoble Alpes and INRIA (France), I work with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in [Datamove team](https://team.inria.fr/datamove/). I am a member of [Melissa project](https://linktr.ee/melissa.inria) which develops a framework for efficient large-scale deep surrogate training on HPC systems.
