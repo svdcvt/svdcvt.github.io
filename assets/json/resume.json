@@ -66,9 +66,16 @@
   ],
   "education": [
     {
-      "institution": "Skolkovo Institute of Science and Technology and Higher School of Economics",
+      "institution": "Skolkovo Institute of Science and Technology",
       "location": "Moscow, Russia",
       "area": "Statistical Learning and Data Science",
+      "studyType": "MSc",
+      "startDate": "2019-09-09",
+      "endDate": "2021-07-07"
+    },{
+      "institution": "Higher School of Economics",
+      "location": "Moscow, Russia",
+      "area": "Statistical Learning",
       "studyType": "MSc",
       "startDate": "2019-09-09",
       "endDate": "2021-07-07"
