@@ -67,30 +67,6 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-github_username: svdcvt # your GitHub user name
-gitlab_username: sdymchen # your GitLab user name
-twitter_username: sofyadym # your Twitter handle
-linkedin_username: sofya-dymchenko-56269323a # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
-
-contact_note: >
-  Do not hesitate to send me an email to: name(dot)surname(at)inria(dot)fr.
-
-# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
