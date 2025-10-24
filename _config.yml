@@ -83,14 +83,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Digesting AI # blog_name will be displayed in your blog page
-blog_description: reading papers, writing notes, having fun!
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+# blog_name: Digesting AI # blog_name will be displayed in your blog page
+# blog_description: reading papers, writing notes, having fun!
+# permalink: /blog/:year/:title/
+# lsi: false # produce an index for related posts
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
 # Comments
 # disqus_shortname: svdcvt # put your disqus shortname
@@ -107,15 +107,15 @@ pagination:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  books:
-    output: true
-  news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: false
+# collections:
+  # books:
+  #   output: true
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  # projects:
+  #   output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -156,6 +156,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md
+  - _posts/
+  - _projects/
+  - assets/audio/
+  - assets/jupyter/
+  - assets/plotly/
+  - assets/video/
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -210,17 +218,17 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-    permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+# jekyll-archives:
+#   posts:
+#     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+#     permalinks:
+#       year: "/blog/:year/"
+#       tags: "/blog/:type/:name/"
+#       categories: "/blog/:type/:name/"
+#   books:
+#     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ['papers', 'sota', 'math', 'fun', 'code'] # this tags will be dispalyed on the front page of your blog
+# display_tags: ['papers', 'sota', 'math', 'fun', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
