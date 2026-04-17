@@ -15,6 +15,7 @@ nav_order: 10
 📅 Date: Tuesday, 21 April 2026, 15:00 (CEST, UTC+2) <br>
 📍 Location: France, Grenoble -- UGA Campus, IMAG Building, ground floor, Seminar Room 1 <br>
 ​📺​ Link to online stream: [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/97602421977?pwd=ZLdKeShhtHtJfSQzLOUTRCuykEuFe5.1)
+Duration: 45 minutes (with jury questions after)
 
 
 Manuscript can be found here: TBA, slide here: TBA, and recording of the defence here: TBA
