@@ -6,8 +6,7 @@ description:
 nav: false
 nav_order: 10
 ---
-
-![banner_wc](/assets/img/wordcloud_banner.png)
+<img src="/assets/img/wordcloud_banner.png" alt="wordcloud" width="1000"/>
 
 ## High Performance Online Deep Neural Network Training from Synthetic Data with Active Learning for Scientific Computing
 
@@ -34,4 +33,4 @@ Traditional workflows require the entire dataset to be generated and stored on d
 
 This thesis addresses the problem from a data-centric perspective. We leverage an existing online training framework [Melissa](https://linktr.ee/melissa.inria) that overlaps data creation with surrogate training, streaming simulation data directly into the training process, eliminating the need for storage and the associated I/O bottlenecks. Within this setting, we implement adaptive steering of data creation informed by the training process, and develop query-synthesis active learning methods for online surrogate training. These methods adapt the prior sampling distribution over solver input configurations to expose the NN to more informative training data, aiming to increase generalisation accuracy within a fixed compute budget. The proposed methods are model-agnostic and lightweight, and demonstrate consistent improvements in surrogate reliability and accuracy across a diverse set of PDEs and NN architectures.
 
-![lines](/assets/img/trajectory32-1.png)
+<img src="/assets/img/trajectory32-1.png" alt="lines" width="1000"/>
