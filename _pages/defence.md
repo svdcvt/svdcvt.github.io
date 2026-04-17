@@ -24,7 +24,7 @@ Manuscript can be found here: TBA, slide here: TBA, and recording of the defence
 
 Scientific simulations are expensive. Deep learning surrogates promise to replace them — but training one still requires running hundreds or thousands of simulations, sampled blindly before training even begins. This creates a compounding problem: costly data, poor coverage, and a workflow that cannot adapt to what the model actually needs. The field has focused on building better models; this thesis argues the bottleneck is in the data.
 
-We build on an online training framework [Melissa](https://linktr.ee/melissa.inria)) in which simulation data is streamed directly into the training process, removing the need for data storage. Within this setting, we develop active learning methods that monitor training progress and steer data creation toward the most informative configurations -- spending the compute budget where it matters most. The proposed methods are lightweight, model-agnostic, and show consistent gains in surrogate accuracy and reliability across diverse physical systems and model architectures.
+We build on an online training framework [Melissa](https://linktr.ee/melissa.inria) in which simulation data is streamed directly into the training process, removing the need for data storage. Within this setting, we develop active learning methods that monitor training progress and steer data creation toward the most informative configurations -- spending the compute budget where it matters most. The proposed methods are lightweight, model-agnostic, and show consistent gains in surrogate accuracy and reliability across diverse physical systems and model architectures.
 
 ### Full Abstract
 
