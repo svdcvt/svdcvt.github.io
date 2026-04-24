@@ -38,3 +38,4 @@ nav_order: 3
 
 - 4-5/07: **ENGAGE meeting Inria-DFKI**. Participated in [ENGAGE project](https://engage.inria.fr/) meeting in Paris, France. Gave a small talk on *Simulation-Based Inference*. [Presentation](https://engage.inria.fr/files/2022/07/simulation-based-inference-and-generative-nn.pdf), Photo(TBA).
 - 30-31/05: **The HPC-BigData INRIA Project LAB (IPL) - Plenary Meeting**. Gave my first presentation on the topic of *Simulation-Based Inference* at Inria Paris, France. Presentation(TBA), Photo(TBA).
+- 24/02, 1/03: Russian-Ukrainian War has started and I've arrived to Grenoble, France, to **start my PhD** on the 1st of March. Photo(TBA) with my advisor.
