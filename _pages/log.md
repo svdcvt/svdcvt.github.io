@@ -10,7 +10,7 @@ nav_order: 3
 ## 2026
 
 - 24/04: **"Call me Dr. Dymchenko!** I defended my PhD thesis! For more, see this page: [https://svdcvt.github.io/phddefence](https://svdcvt.github.io/phddefence)
-- 30/03: **AI for Physics and Engineering Meetup (Emmi.ai & Hugging Face, Paris)**. Gave a 10-minutes talk about online surrogate training and Melissa. Presentation: [TBA]
+- 30/03: **AI 4 Physics & Engineering Meet-up by Emmi.ai & Hugging Face**. Gave a 10-minutes talk about online surrogate training and Melissa in HF HQ in Paris, France. Presentation(TBA), [LinkedIn Post](https://www.linkedin.com/posts/emmiai_our-first-ai-4-physics-engineering-meet-up-activity-7444654816817094656-1Rct?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA)
 - 7/03: **My PhD manuscript is sent!** It took me just about 6 months to write my 160-pages thesis... 
 
 ## 2025
