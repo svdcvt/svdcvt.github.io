@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Dr. # the website title (if blank, full name will be used instead)
 first_name: Sofya
 middle_name: (Sofi)
 last_name: Dymchenko 🐭
-# email: name(dot)surname(at)inria(dot)fr
+# email: name(dot)surname(at)gmail(dot)com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
