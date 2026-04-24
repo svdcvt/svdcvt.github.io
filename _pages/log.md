@@ -19,18 +19,19 @@ nav_order: 3
 - 30/06-11/07: **Research Visit at TUM**. Visited Technical University of Munich (TUM) for research collaboration with Prof. Nils Thuerey. Gave a talk on my recent work, attempted to use online training for PDETransformer. 
 - 16-20/06: **Numerical Analysis School**. Attended Numerical Analysis Summer School 2025 organised by Inria, EDF, and CEA in Saclay, France. [[Link]](https://ecoles-cea-edf-inria.fr/en/history/ecole-analyse-numerique-2025)
 - 1/04: **New Intern**. Piere Cesar (M2) will work on generative active learning for online surrogate training within Melissa.
+- 12-13/03: **NumPEx General Assembly**. Participated in the General NumPEx Meeting, that includes all projects and working groups, at INRIA Paris-Saclay, France. [LInkedIn Post](https://www.linkedin.com/posts/numpex_hpc-ai-hpc-ugcPost-7305612361988517890-c8yK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA)
 - 3/02: **New Intern**. Emile Dugelay (M1) will work on foundation models (e.g., Poseidon) pretraining within Melissa.
 
 ## 2024
 
-- 17-22/11: **Supercomputing 2024**. Attended SC24 conference in Atlanta, GA, USA. Presented my publication orally during the [Ai for Science](https://sc24.supercomputing.org/proceedings/workshops/workshop_sessions.html#sess757) workshop. [Video]() [Photo]().
+- 17-22/11: **Supercomputing 2024**. Attended SC24 conference in Atlanta, GA, USA. Presented my publication orally during the [Ai for Science](https://sc24.supercomputing.org/proceedings/workshops/workshop_sessions.html#sess757) workshop. [Video]() [LinkedIn Post](https://www.linkedin.com/posts/sofya-dymchenko-56269323a_sc24-activity-7264727048496037888-8qjM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA).
 - 21-27/07: **ICML2024**. Attended ICML2024 conference in Vienna, Austria. It was a great opportunity to expand my network of connections and boil some discussions. My advisor presented Melissa during [WANT workshop](https://want-ai-hpc.github.io/icml2024/about). [LinkedIn Post](https://www.linkedin.com/posts/sofya-dymchenko-56269323a_our-workshop-on-efficient-training-of-neural-activity-7222864550084153345-24WG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA). 
 - 29-31/05: **GAP workshop**. Attended [Grenoble Artificial Intelligence for Physical Sciences workshop](https://gap2024.sciencesconf.org), organised by my advisor and other colleagues in Grenoble, France. I was volunteering to help with on-site organisation. [LinkedIn Post](https://www.linkedin.com/posts/sofya-dymchenko-56269323a_ai4science-activity-7202260638474072066-CMEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA).
 
 ## 2023
 
-- xx/06: **Laboratory PhD Day**. Presented my research in 120 seconds for a broad auditory and won the first place, which titled me to "The Best PhD Student". Presentation(TBA), Photo(TBA).
 - 27/10: **First Paper Accepted**. My first paper got [accepted at ML4Phys workshop at NeurIPS2023](https://neurips.cc/virtual/2023/76172). Unfortunately, visa issues prevented me from attending the conference in person. [Paper](https://www.semanticscholar.org/paper/Loss-driven-sampling-within-hard-to-learn-areas-for-Dymchenko-Raffin/4e86620643004f4e22bd5ab9080ec671b091813c)
+- xx/06: **Laboratory PhD Day**. Presented my research in 120 seconds for a broad auditory and won the first place, which titled me to "The Best PhD Student". Presentation(TBA), Photo(TBA).
 - 21-23/03: **Poster at JLESC**. My first poster on *"Steering Large Scale Ensemble Simulations for Online DNN Training with Adaptive Sampling"* at the [15th JLESC Workshop](https://events.hifis.net/event/617/contributions/4132) in Bordeaux, France. Poster(TBA), Photo(TBA).
 
 ## 2022
