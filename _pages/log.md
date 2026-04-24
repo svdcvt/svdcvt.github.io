@@ -15,6 +15,7 @@ nav_order: 3
 
 ## 2025
 
+- 5-7/11: **Exa-DoST Annual Assembly**. Participated in my last (during PhD) NumPEx meeting at Inria Bordeaux, France. [LinkedIn Post](https://www.linkedin.com/posts/numpex_hpc-exadost-hpc-ugcPost-7406367249185492992-IYdr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuLmFoBu1LGuoh5ygUjX1G4NMYFimFK0FA)
 - 30/06-11/07: **Research Visit at TUM**. Visited Technical University of Munich (TUM) for research collaboration with Prof. Nils Thuerey. Gave a talk on my recent work, attempted to use online training for PDETransformer. 
 - 16-20/06: **Numerical Analysis School**. Attended Numerical Analysis Summer School 2025 organised by Inria, EDF, and CEA in Saclay, France. [[Link]](https://ecoles-cea-edf-inria.fr/en/history/ecole-analyse-numerique-2025)
 - 1/04: **New Intern**. Piere Cesar (M2) will work on generative active learning for online surrogate training within Melissa.
