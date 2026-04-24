@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, salut, привет! I recently defended my Ph.D. at University Grenoble Alpes and INRIA (France), I worked with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in [Datamove team](https://team.inria.fr/datamove/). I was a member of [Melissa project](https://linktr.ee/melissa.inria) which develops a framework for efficient large-scale deep surrogate training on HPC systems.
-Currently I am (passively) looking for a new job/position (it will be more active after the post-defence honeymoon).
+Hi, salut, привет! I recently defended my Ph.D. at the University Grenoble Alpes and INRIA (France), I worked with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in the [Datamove team](https://team.inria.fr/datamove/). I was a member of the [Melissa project](https://linktr.ee/melissa.inria), which develops a framework for efficient large-scale deep surrogate training on HPC systems.
+Currently, I am (passively) looking for a new job/position (it will become more active after the post-defence honeymoon).
 
 ---
 
@@ -27,7 +27,7 @@ The cost of generating training data from physical solvers is a major bottleneck
 
 ---
 
-I defnded my thesis on 21st of April 2026. I plan to continue working in the field of AI for Science. I want:
+I defended my thesis on the 21st of April 2026. I plan to continue working in the field of AI for Science. I want:
 - to work back-to-back in a team of passionate researchers and engineers, 
 - to apply my skills and knowledge to solving real-world scientific cases, 
 - to stay connected to the scientific community by publishing and presenting the results, and 
