@@ -6,7 +6,7 @@ description:
 nav: false
 nav_order: 10
 ---
-<img src="/assets/img/wordcloud_banner.png" alt="wordcloud" width="1000"/>
+<img src="/assets/img/wordcloud_banner.png" alt="wordcloud" width="930"/>
 
 ## High Performance Online Deep Neural Network Training from Synthetic Data with Active Learning for Scientific Computing
 
@@ -14,11 +14,10 @@ nav_order: 10
 
 📅 Date: Tuesday, 21 April 2026, 15:00 (CEST, UTC+2) <br>
 📍 Location: France, Grenoble -- UGA Campus, IMAG Building, ground floor, Seminar Room 1 <br>
-​📺​ Link to online stream: [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/97602421977?pwd=ZLdKeShhtHtJfSQzLOUTRCuykEuFe5.1)
-Duration: 45 minutes (with jury questions after)
 
-
-Manuscript can be found here: TBA, slide here: TBA, and recording of the defence here: TBA
+📜 Manuscript: TBA. <br>
+🎞️ Slides: [PDF](/assets/pdf/short.pdf) <br>
+🎬 Recording of the defence: [YouTube](https://youtu.be/ze_d4kR1doc) <br>
 
 ### Lay Summary
 
@@ -34,4 +33,4 @@ Traditional workflows require the entire dataset to be generated and stored on d
 
 This thesis addresses the problem from a data-centric perspective. We leverage an existing online training framework [Melissa](https://linktr.ee/melissa.inria) that overlaps data creation with surrogate training, streaming simulation data directly into the training process, eliminating the need for storage and the associated I/O bottlenecks. Within this setting, we implement adaptive steering of data creation informed by the training process, and develop query-synthesis active learning methods for online surrogate training. These methods adapt the prior sampling distribution over solver input configurations to expose the NN to more informative training data, aiming to increase generalisation accuracy within a fixed compute budget. The proposed methods are model-agnostic and lightweight, and demonstrate consistent improvements in surrogate reliability and accuracy across a diverse set of PDEs and NN architectures.
 
-<img src="/assets/img/trajectory32-1.png" alt="lines" width="1000"/>
+<img src="/assets/img/trajectory32-1.png" alt="lines" width="930"/>
