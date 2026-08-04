@@ -15,6 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+Si vous avez trouvé mon portefeuille à Quiberon / Auray / Ploemel, s'il vous plaît, contactez-moi par téléphone (zéro sept quarante-neuf cinquante-six trente quatre soixante-sept) ou mon email (sofya.dymchenko@gmail.com). 4 aout 2026.
+
+If you found my wallet in Quiberon/Auray/Ploemel, please, contact me by phone (+33 seven four nine five six three four six seven) or by email (sofya.dymchenko@gmail.com). 4 August 2026.
+
+
+
 Hi, salut, привет! I recently defended my Ph.D. at the University Grenoble Alpes and INRIA (France), I worked with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in the [Datamove team](https://team.inria.fr/datamove/). I was a member of the [Melissa project](https://linktr.ee/melissa.inria), which develops a framework for efficient large-scale deep surrogate training on HPC systems.
 Currently, I am (passively) looking for a new job/position (it will become more active after the post-defence honeymoon).
 
