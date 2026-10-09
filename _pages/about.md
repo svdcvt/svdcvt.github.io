@@ -14,22 +14,15 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-Si vous avez trouvé mon portefeuille à Quiberon / Auray / Ploemel, s'il vous plaît, contactez-moi par téléphone (zéro sept quarante-neuf cinquante-six trente quatre soixante-sept) ou mon email (sofya.dymchenko@gmail.com). 4 aout 2026.
-
-If you found my wallet in Quiberon/Auray/Ploemel, please, contact me by phone (+33 seven four nine five six three four six seven) or by email (sofya.dymchenko@gmail.com). 4 August 2026.
-
-
-
-Hi, salut, привет! I recently defended my Ph.D. at the University Grenoble Alpes and INRIA (France), I worked with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in the [Datamove team](https://team.inria.fr/datamove/). I was a member of the [Melissa project](https://linktr.ee/melissa.inria), which develops a framework for efficient large-scale deep surrogate training on HPC systems.
-Currently, I am (passively) looking for a new job/position (it will become more active after the post-defence honeymoon).
+Hi, salut, привет! I recently defended my Ph.D. at the University Grenoble Alpes and INRIA (France), I worked with [Bruno Raffin](https://datamove.imag.fr/bruno.raffin/) in the [Datamove team](https://team.inria.fr/datamove/). I was a member of the [Melissa project](https://linktr.ee/melissa.inria), which develops a framework for efficient large-scale deep surrogate training on HPC systems. <br>
+Currently, I am actively looking for new opportunities to continue research on deep PDE surrogates, for example, in engineering or earth sciences; I am open to R&D roles in private sector as well as academic postdoc positions.
 
 ---
 
 My thesis research question was:
 > "How to make training of data-driven surrogates more data-efficient, i.e., obtaining accurate surrogate with fewer generated simulations?"
 
-The cost of generating training data from physical solvers is a major bottleneck in scientific deep learning, it especially limits the scaling of deep surrogate models application to complex real-world problems. Compared to classical deep learning, with solvers we have the power to create data, but with such power comes the question: "Which data to generate?". Current standard practice is to create the data by uniformly sampling input parameters of a solver. *Is it really the best way?*  It was my thesis's goal to close this gap. I developed an active learning method that reduces the number of training data simulations required by choosing more informative input parameters based on surrogate training loss. For more details, see publications in the list below, the recording of my presentation at SC 2024 [[youtube-link]](https://youtu.be/WUfa6SunwGc?si=zjwIf1VKYd00T9lH), and my PhD thesis is soon will be available on this page.
+The cost of generating training data from physical solvers is a major bottleneck in scientific deep learning, it especially limits the scaling of deep surrogate models application to complex real-world problems. Compared to classical deep learning, with solvers we have the power to create data, but with such power comes the question: "Which data to generate?". Current standard practice is to create the data by uniformly sampling input parameters of a solver. *Is it really the best way?*  It was my thesis's goal to close this gap. I developed an active learning method that reduces the number of training data simulations required by choosing more informative input parameters based on surrogate training loss. For more details, see publications in the list below, the recording of my presentation at SC 2024 [[youtube-link]](https://youtu.be/WUfa6SunwGc?si=zjwIf1VKYd00T9lH), and my PhD thesis [[here]](https://svdcvt.github.io/phddefence/).
 
 ---
 
