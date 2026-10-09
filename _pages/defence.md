@@ -15,7 +15,7 @@ nav_order: 10
 📅 Date: Tuesday, 21 April 2026, 15:00 (CEST, UTC+2) <br>
 📍 Location: France, Grenoble -- UGA Campus, IMAG Building, ground floor, Seminar Room 1 <br>
 
-📜 Manuscript: TBA. <br>
+📜 Manuscript: [Compressed PDF](/assets/pdf/versionJuly_compressed.pdf) <br>
 🎞️ Slides: [PDF](/assets/pdf/short.pdf) <br>
 🎬 Recording of the defence: [YouTube](https://youtu.be/ze_d4kR1doc) <br>
 
